@@ -1,6 +1,6 @@
+![I'm a MERN stack web developer](https://i.ibb.co/2ZpLMjj/Black-Geometric-Marketing-Expert-Linked-In-Banner-2.png)
 ### Hi there 👋, my name is Atik Rahad
 #### I'm a MERN stack web developer
-![I'm a MERN stack web developer](https://i.ibb.co/2ZpLMjj/Black-Geometric-Marketing-Expert-Linked-In-Banner-2.png)
 
 I'm an expert in using React.js, Tailwind, Express, and MongoDB. Also, familiar with using Material UI, mongoose, and Next.js. I have already done some projects using React, Tailwind, Material UI, Express, and MongoDB.
 
@@ -10,19 +10,19 @@ I'm an expert in using React.js, Tailwind, Express, and MongoDB. Also, familiar 
 
 ### Recent
 
-- 🔭 I’m currently working on [Medical Camp Management](https://github.com/atikrahad/medical-camp-management-clientside)
+- 🔭 I’m currently working on [Medical Camp Management](https://github.com/atikrahad/medical-camp-management-clientside)   
 
 - 🌱 I’m currently learning **Next.JS**
 
 - 💬 Ask me about **JavaScript, React, Express.js, MongoDB**
 
-- 📫 How to reach me **atikrahad1@gmail.com**
+- 📫 How to reach me **atikrahad1@gmail.com**    
 
 ## Social link:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/atikrahad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/atik-rahad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/atik_rahad1/)  
 
 
+   ![GitHub streak stats](https://streak-stats.demolab.com/?user=atikrahad) (https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikrahad&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikrahad)]
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=atikrahad)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikrahad&show_icons=true)  
 
 
