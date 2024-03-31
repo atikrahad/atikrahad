@@ -1,4 +1,4 @@
-![I'm a MERN stack web developer](https://i.ibb.co/cLfCHgw/Dark-Blue-and-Yellow-Illustrated-Futuristic-News-Report-University-Smore-Header.png)
+![I'm a MERN stack web developer]()
 ### Hi there 👋, my name is Atik Rahad
 #### I'm a MERN stack web developer
 
