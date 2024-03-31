@@ -1,8 +1,8 @@
-![I'm a MERN stack web developer]()
+![I'm a MERN stack web developer]
 ### Hi there 👋, my name is Atik Rahad
 #### I'm a MERN stack web developer
 
-I'm an expert in using React.js, Tailwind, Express, and MongoDB. Also, familiar with using Material UI, mongoose, and Next.js. I have already done some projects using React, Tailwind, Material UI, Express, and MongoDB.
+I'm an expert in using React.js, Tailwind, Express, and MongoDB. Also, familiar with using Material UI, mongoose, typescript, and Next.js. I have already done some projects using React, Tailwind, Material UI, Express, and MongoDB.
 
 
 <h3 align="left">Languages and Tools:</h3>
