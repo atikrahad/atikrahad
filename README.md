@@ -1,4 +1,5 @@
-![I'm a MERN stack web developer]
+![banner](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)
+
 ### Hi there 👋, my name is Atik Rahad
 #### I'm a MERN stack web developer
 
