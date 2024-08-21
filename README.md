@@ -16,7 +16,7 @@ I'm an expert in using React.js, Tailwind, Express, and MongoDB. Also, familiar 
 
 - 💬 Ask me about **JavaScript, React, Express.js, MongoDB**
 
-- 📫 How to reach me **atikrahad1@gmail.com**
+- 📫 How to reach me **rahad.atik1@gmail.com**
 - Portfolio  https://atik-rahad.netlify.app  
 
 ## Social link:
