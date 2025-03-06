@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=atikrahad.atikrahad" />
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you </h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>Hey! Nice to see you here</h1>
 
 </br>
 
@@ -7,6 +7,18 @@
   <div style="display: inline-block; width: 80%; margin: 0 auto;">
     <h1>I'm Atik Rahad – Building Scalable Web Solutions with Passion</h1>
     <p>Full-Stack Developer passionate about crafting scalable and high-performance web applications. Skilled in building modern, dynamic solutions with Next.js, Strapi, Express, and NestJS. Continuously exploring new technologies, currently diving into Python and Django to expand my expertise. Always eager to innovate, learn, and collaborate on impactful projects! 🚀</p>
+    <div align="center"> 
+  <a href="atikrahad1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/atik-rahad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://atik-rahad.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
   </div>
 </div>
 
@@ -35,27 +47,23 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-### Recent
 
-
-- 🌱 I’m currently learning **Strapi, Graphql and Zustand**
-
-- 💬 Ask me about **JavaScript, React, Express.js, MongoDB**
-
-- 📫 How to reach me **rahad.atik1@gmail.com**
-- Portfolio  https://atik-rahad.netlify.app  
-
-## Social link:
-<p><a href="https://x.com/atik_rahad"><img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/atik-rahad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/atik_rahad1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  <a href="https://www.facebook.com/atik.rahat.10"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://medium.com/@atikrahad1"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>  
 </br>
 <h2 align="center">⚡ Stats for GitHub ⚡</h2>
 <br>
 <div align=center>
  <img width=347 src="https://github-readme-stats.vercel.app/api/top-langs?username=atikrahad&show_icons=true&locale=en&layout=compact" alt="atikrahad" />
-<a href="https://github.com/atikrahad"><img alt=yeakub Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atikrahad&show_icons=true&count_private=true&title_color=fffff"/></a>
+<a href="https://github.com/atikrahad"><img alt=atikrahad Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=atikrahad&show_icons=true&count_private=true&title_color=fffff"/></a>
 <br/>
 <a href="https://leetcode.com/u/atikrahad" target="_blank"> <img src="https://leetcard.jacoblin.cool/atikrahad?ext=contest"/></a> 
 </div>
 
 <h3 align="center"> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</br>
+<div>
+<p>
+</br>
+  <a href="https://x.com/atik_rahad"><img src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/atik-rahad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/atik_rahad1"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>  <a href="https://www.facebook.com/atik.rahat.10"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://medium.com/@atikrahad1"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> </p>  
+</div>
+
 
